@@ -1,4 +1,4 @@
-#COVID 19 Data Dashboard
+# COVID 19 Data Dashboard
 
 https://covid-19-myfirst-app.herokuapp.com/
 
